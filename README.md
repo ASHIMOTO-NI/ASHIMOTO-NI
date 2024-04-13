@@ -1,4 +1,5 @@
-<p align = center ><img src="https://i.ibb.co/30MMMZh/captura.png"> </p>
+<p align = center <h2> / ASHIMOTO NI /</h2> </p>
+<p align = center <h2> / an aspiring full-stack developer /</h2> </p>
 
 <div>
 
