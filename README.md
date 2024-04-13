@@ -1,4 +1,4 @@
-<p align = center ><img src="[https://i.imgur.com/x6qU1kR.png](https://ibb.co/gg3m6JJ)"> </p>
+<p align = center ><img src="https://i.imgur.com/x6qU1kR.png"> </p>
 
 <div>
 
