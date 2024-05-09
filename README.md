@@ -43,7 +43,7 @@
   </br></br>
   
 <div align="right">
-<a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
+<a href="https://co.pinterest.com/pin/1103100502468252435/">Imagen de Pinterest</a>
   </div>
   </div>
 
