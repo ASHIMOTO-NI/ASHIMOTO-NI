@@ -3,7 +3,7 @@
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://i.pinimg.com/564x/62/d8/ab/62d8ab33f10a4e1b3b8d04a7c7be009f.jpg"/>
+<img align="right" width="400" alt="Shimarin" src="https://i.ibb.co/m00kGHy/470640ae9d094b90d44961a4b1dc091c.png"/>
 
 <h2> / about me /</h2>
   
@@ -21,7 +21,10 @@
   
   - <h5> currently learning </h5>
     <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "c#" />
-    <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "java" />
+    <a href="https://github.com/ASHIMOTO-NI/JAVA_INTERFAZ-GRAFICA.git">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java" />
+</a>
+
   
 - <h4> frameworks & libraries </h4>
   <img src = "https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react-native" />
