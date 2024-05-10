@@ -5,7 +5,7 @@
 
 <img align="right" width="400" alt="Shimarin" src="https://i.pinimg.com/564x/c0/d6/08/c0d60897ca613b76a2d2e8f9ac7f1801.jpg"/>
 
-<h2> / about me /</h2>
+<h2> / About Me /</h2>
   
 - ⭐ currently working on **web-development**
 - 💀 mostly working on **private repositories**
